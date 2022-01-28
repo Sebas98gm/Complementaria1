@@ -37,3 +37,7 @@ iris[1,5]
 Largo_petalo<-iris$Sepal.Length
 
 media_largo<-mean(Largo_petalo[1:50])
+
+
+
+Olakase
